@@ -570,7 +570,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #2f2c3d;
+	background: black;
 }
 
 .spinner {
@@ -844,7 +844,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 6.5rem;
 	padding-bottom: 4.25rem;
-	background-color: #2f2c3d;
+	background-color: black;
 }
 
 .tabs h2 {
@@ -1143,7 +1143,7 @@ input[type='checkbox'] {
 	margin: 2.5rem auto;
 	padding: 3rem 1rem;
 	border-radius: 0.25rem;
-	background-color: #2f2c3d;
+	background-color: black;
 	text-align: left;
 }
 
@@ -1219,7 +1219,7 @@ input[type='checkbox'] {
 .slider-2 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.875rem;
-	background-color: #2f2c3d;
+	background-color: black;
 }
 
 .slider-2 .slider-container {
@@ -1431,13 +1431,13 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #00c9db url("../images/up-arrow.png") no-repeat center 47%;
+	background: black url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-	background-color: #36edfd; 
+	background-color: black; 
 }
 
 
@@ -1454,7 +1454,7 @@ a:hover.back-to-top {
 .ex-basic-1 {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
-	background-color: #2f2c3d;
+	background-color: black;
 }
 
 .ex-basic-1 .breadcrumbs {
