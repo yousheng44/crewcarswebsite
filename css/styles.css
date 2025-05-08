@@ -269,7 +269,7 @@ a.white {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: black;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -323,7 +323,7 @@ select::-ms-expand {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: black;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.75rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -1358,7 +1358,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 5rem;
-	background-color: #262431;
+	background-color: black;
 }
 
 .footer .footer-col {
